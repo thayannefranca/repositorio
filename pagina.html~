@@ -1,10 +1,10 @@
 <html>
 	<head>
 		<title>Curso de Git</title>
-		<link rel="stylesheet" type="text/css" href="estilo.css">
 	</head>
 	<body>
 		<h1>Git - Um SCM rapido e seguro</h1>
-		<p>O Git foi criado por Linus Torvalds</p>
+		<p>O Git foi criado por Linus Torvalds, pai do Linux<p>
+		<p>O Git é um SCM distribuido.<p>
 	</body>
 </html>
